@@ -1,0 +1,19 @@
+#wrapper {
+    display: grid;
+    height: 100vh;
+    grid-template-rows: 200px 200px auto;
+}
+
+header {
+    background-color: red;
+}
+
+main {
+    background-color: blue;
+}
+
+footer {
+    background-color: green;
+}
+
+
